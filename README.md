@@ -1,2 +1,2 @@
 # HHP
-this is for hyper heuristic algorithm
+this is a simulation of mine ore and rock movement.
